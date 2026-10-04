@@ -1,0 +1,29 @@
+# Build and IDE output
+**/bin/
+**/obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.obj
+*.pdb
+*.exp
+*.lib
+*.asi
+iPodManager.Plugin/tests/*.exe
+# Local state and release output
+artifacts/
+/build/
+*.log
+**/cache/
+**/preferences.json
+**/.deployment-transaction/
+**/deployment.bin
+**/deployment-managed-files.json
+iPodManager.App/content/custom/*
+!iPodManager.App/content/custom/.gitkeep
+iPodManager.App/content/podcasts/*
+!iPodManager.App/content/podcasts/.gitkeep
+# Separately installed third-party decoder tools
+iPodManager.App/tools/*.exe
+iPodManager.App/tools/*.dll

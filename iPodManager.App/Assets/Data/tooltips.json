@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "tooltips": {
+    "transfer_to_ipod": "Sync all selected tracks to Snake's iPod in Metal Gear Solid 4. This may take several minutes.",
+    "waveform": "Displays a visual representation of the selected track's audio waveform.",
+    "codec": "Displays the codec used to encode the selected track.",
+    "bitrate": "Displays the selected track's audio bitrate.",
+    "channels": "Displays the number of audio channels in the selected track.",
+    "bitrate_mode": "Displays whether the selected track uses constant or variable bitrate encoding.",
+    "sample_rate": "Displays the selected track's sampling rate, measured in samples per second.",
+    "bit_depth": "Displays the number of bits used to represent each audio sample.",
+    "annotation": "Displays additional information about the selected track, when available.",
+    "filename": "Displays the filename of the selected track.",
+    "quality": "Sets the output quality. Higher quality settings produce larger files. Choose a preset or adjust it manually.",
+    "track_selection": "Displays available tracks. Highlight a track to view details. Click to select or deselect it for syncing to Snake’s iPod.",
+    "album_tabs": "Displays available albums. Select an album to view its contents. Select ALL to view every track.",
+    "select_all": "Selects all tracks in the current list.",
+    "select_none": "Deselects all tracks in the current list.",
+    "categories": "Displays available track categories. Select a category to filter the tracklist.",
+    "minimize": "Minimizes the application window.",
+    "close": "Closes the application.",
+    "settings": "Opens the Settings menu.",
+    "sunny_song_1": "7892590360... 3305305... 4882046652...",
+    "sunny_song_2": "11... 23... 581321... 34... 55... 89... 144... 233... 377... 610987... 15... 97... 95.. 84...",
+    "sunny_song_3": "Argon... Boron... Silicon and neon... Erbium... Fermium... Plutonium... Chlorine... Flouine... Galliium and xenon... Thallium, strontium...",
+    "sunny_song_4": "Kawanishi-Noseguchi... Kinunobebashi, Takiyama... Uguisunomori, Tsuzumigataki, Tada, Hirano. Ichinotorii, Uneno... Yamashita, Sasabe... Kofudai, Tokiwadai, Myokenguchi..."
+  }
+}

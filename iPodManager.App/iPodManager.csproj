@@ -1,0 +1,94 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>iPodManager</AssemblyName>
+    <RootNamespace>iPodManager</RootNamespace>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\AppIcon.ico</ApplicationIcon>
+    <AssemblyTitle>iPod Manager</AssemblyTitle>
+    <Product>iPod Manager</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DeploymentPipelineTests\**\*.cs" />
+    <None Remove="Assets\Audio\*.mp3" />
+    <None Remove="Assets\AppIcon.ico" />
+    <None Remove="Assets\Data\default_tracks.json" />
+    <None Remove="Assets\Data\tooltips.json" />
+    <None Remove="Assets\Fonts\font-of-the-patriots.ttf" />
+    <None Remove="Assets\Fonts\sce-ps3-nr-r-jpn.ttf" />
+    <None Remove="Assets\Fonts\sce-ps3-rd-r-latin.ttf" />
+    <None Remove="Assets\Images\icon_checkmark.png" />
+    <None Remove="Assets\Images\icon_exclamation_point.png" />
+    <None Remove="Assets\Images\icon_kiku.png" />
+    <None Remove="Assets\Images\icon_ipod.png" />
+    <None Remove="Assets\Images\icon_loading.png" />
+    <None Remove="Assets\Images\icon_question_mark.png" />
+    <None Remove="Assets\Images\icon_signal_intercepter.png" />
+    <None Remove="Assets\Images\icon_syringe.png" />
+    <None Remove="Assets\Images\spritesheet_otacon.png" />
+    <None Remove="Assets\Video\sunny_cam_01.mp4" />
+    <None Remove="Assets\Video\sunny_cam_02.mp4" />
+    <None Remove="Assets\Video\sunny_cam_03.mp4" />
+    <None Remove="Assets\Video\sunny_cam_04.mp4" />
+    <None Remove="Assets\Video\sunny_cam_05.mp4" />
+    <None Remove="Assets\Video\sunny_cam_06.mp4" />
+    <None Remove="Assets\Video\sunny_cam_07.mp4" />
+    <None Remove="Assets\Video\sunny_cam_08.mp4" />
+    <None Remove="Assets\Video\sunny_cam_09.mp4" />
+    <None Remove="Assets\Video\sunny_cam_10.mp4" />
+    <None Remove="Assets\Video\sunny_cam_11.mp4" />
+    <None Remove="Assets\Video\sunny_cam_12.mp4" />
+    <None Remove="Assets\Video\sunny_cam_13.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Audio\*.mp3" />
+    <Resource Include="Assets\AppIcon.ico" />
+    <Resource Include="Assets\Video\sunny_cam_*.mp4" />
+    <Resource Include="Assets\Data\default_tracks.json" />
+    <Resource Include="Assets\Data\tooltips.json" />
+    <Resource Include="Assets\Fonts\font-of-the-patriots.ttf" />
+    <Resource Include="Assets\Fonts\sce-ps3-nr-r-jpn.ttf" />
+    <Resource Include="Assets\Fonts\sce-ps3-rd-r-latin.ttf" />
+    <Resource Include="Assets\Images\icon_checkmark.png" />
+    <Resource Include="Assets\Images\icon_exclamation_point.png" />
+    <Resource Include="Assets\Images\icon_kiku.png" />
+    <Resource Include="Assets\Images\icon_ipod.png" />
+    <Resource Include="Assets\Images\icon_loading.png" />
+    <Resource Include="Assets\Images\icon_question_mark.png" />
+    <Resource Include="Assets\Images\icon_signal_intercepter.png" />
+    <Resource Include="Assets\Images\icon_syringe.png" />
+    <Resource Include="Assets\Images\spritesheet_otacon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TagLibSharp" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="content\custom\.gitkeep">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="content\podcasts\.gitkeep">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="tools\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </None>
+    <None Update="THIRD_PARTY_NOTICES.md">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

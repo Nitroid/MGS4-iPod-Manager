@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0-windows</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><EnableDefaultCompileItems>false</EnableDefaultCompileItems><TreatWarningsAsErrors>true</TreatWarningsAsErrors></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="ManifestLimitTests.cs" />
+    <Compile Include="DeploymentOwnershipTests.cs" />
+    <Compile Include="TrackDisplayOrderTests.cs" />
+    <Compile Include="..\TrackDisplayOrder.cs" Link="TrackDisplayOrder.cs" />
+    <Compile Include="..\SourceAnnotation.cs" Link="SourceAnnotation.cs" />
+    <Compile Include="SourceHashCacheTests.cs" />
+    <Compile Include="DeploymentArtifactHashCacheTests.cs" />
+    <Compile Include="StartupProgressTests.cs" />
+    <Compile Include="LoggingTests.cs" />
+    <Compile Include="DeploymentRecoveryTests.cs" />
+    <Compile Include="..\LibraryState.cs" Link="LibraryState.cs" />
+    <Compile Include="..\TrackItem.cs" Link="TrackItem.cs" />
+    <Compile Include="..\Mgs4IpodService.cs" Link="Mgs4IpodService.cs" />
+    <Compile Include="..\AppLog.cs" Link="AppLog.cs" />
+    <Compile Include="..\SourceHashCache.cs" Link="SourceHashCache.cs" />
+    <Compile Include="..\LibraryFileFilter.cs" Link="LibraryFileFilter.cs" />
+    <Compile Include="..\DeploymentArtifactHashCache.cs" Link="DeploymentArtifactHashCache.cs" />
+    <Compile Include="..\StartupProgress.cs" Link="StartupProgress.cs" />
+    <Compile Include="..\DeploymentModels.cs" Link="DeploymentModels.cs" />
+    <Compile Include="..\ArtifactPackager.cs" Link="ArtifactPackager.cs" />
+    <Compile Include="..\DeploymentManifest.cs" Link="DeploymentManifest.cs" />
+    <Compile Include="..\DeploymentService.cs" Link="DeploymentService.cs" />
+    <Compile Include="..\GamePaths.cs" Link="GamePaths.cs" />
+    <Compile Include="..\ApplicationPreferences.cs" Link="ApplicationPreferences.cs" />
+    <Compile Include="ApplicationPreferencesTests.cs" />
+    <Compile Include="GamePathsTests.cs" />
+    <Compile Include="SingleInstanceGuardTests.cs" />
+    <Compile Include="..\SingleInstanceGuard.cs" Link="SingleInstanceGuard.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="TagLibSharp" Version="2.3.0" />
+    <None Include="..\tools\ipod-dbm-template.dbm" Link="tools\ipod-dbm-template.dbm" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="..\tools\MGS4iPodStreaming.bank" Link="tools\MGS4iPodStreaming.bank" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
+

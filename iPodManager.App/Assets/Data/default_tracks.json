@@ -1,0 +1,623 @@
+{
+  "tracks": [
+    {
+      "catalog_index": 0,
+      "filename": "Arsenal_Guts.bank",
+      "track_name": "Arsenal's Guts",
+      "album_name": "METAL GEAR SOLID 2",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Arsenal Gear infiltration music."
+    },
+    {
+      "catalog_index": 1,
+      "filename": "AttackoftheDwarfGekko.bank",
+      "track_name": "Gekko",
+      "album_name": "METAL GEAR SOLID 4",
+      "artist_name": "Harry Gregson-Williams",
+      "annotation": "Password: \"george\""
+    },
+    {
+      "catalog_index": 2,
+      "filename": "At_Dawn.bank",
+      "track_name": "At Dawn",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "This song from Metal Gear Solid 4 has \"The dawn of a frightening new world\" as its theme. Part of the title track from the original Metal Gear Solid is used as a motif."
+    },
+    {
+      "catalog_index": 3,
+      "filename": "Backyard_Blues.bank",
+      "track_name": "Backyard Blues",
+      "album_name": "HIDECHAN! Radio 2.5",
+      "artist_name": "The Radio Club",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 4,
+      "filename": "Balance_Lost.bank",
+      "track_name": "Balance Lost",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "A track inspired by the chaos of the battlefield."
+    },
+    {
+      "catalog_index": 5,
+      "filename": "Battle.bank",
+      "track_name": "Battle",
+      "album_name": "METAL GEAR SOLID 2",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Battle music from the Plant Chapter. The percussion parts were phrase-sampled to bring out a sense of speed during battles."
+    },
+    {
+      "catalog_index": 6,
+      "filename": "Battle_of_Highland.bank",
+      "track_name": "Battle of Highland",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Designed to accompany battles in South America. Different from the game's South American combat music, it possesses a more ethnic tone."
+    },
+    {
+      "catalog_index": 7,
+      "filename": "Beyond_The_Bounds.bank",
+      "track_name": "Beyond the Bounds",
+      "album_name": "Zone of the Enders: The 2nd Runner",
+      "album_name_jp": "ANUBIS",
+      "artist_name": "Maki Kimura",
+      "artist_name_jp": "木村 真紀",
+      "annotation": "From ZONE OF THE ENDERS: THE 2ND RUNNER. Main Theme. The delphian scat lyrics are composed of fictional words based loosely on Finnish, representing ADA AI's inner world."
+    },
+    {
+      "catalog_index": 8,
+      "filename": "BigBoss.bank",
+      "track_name": "Big Boss",
+      "album_name": "METAL GEAR SOLID 2 BANDE DESSINÉE",
+      "artist_name": "Norihiko Hibino",
+      "annotation": "From METAL GEAR SOLID 2: DIGITAL GRAPHIC NOVEL. A new Big Boss theme composed especially for the digital graphic novel by Norihiko Hibino, MGS2's stage music composer."
+    },
+    {
+      "catalog_index": 9,
+      "filename": "BIO_HAZARD.bank",
+      "track_name": "Bio Hazard",
+      "album_name": "Snatcher",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "From SNATCHER. Music from the opening and cutscenes. Created using the Konami's custom sound chip, the SCC."
+    },
+    {
+      "catalog_index": 10,
+      "filename": "Bokutai2_THEME.bank",
+      "track_name": "Boktai 2 Theme",
+      "track_name_jp": "続・ボクらの太陽 テーマ",
+      "album_name": "Boktai 2: Solar Boy Django",
+      "album_name_jp": "続・ボクらの太陽",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From BOKTAI 2: SOLAR BOY DJANGO. Main Theme."
+    },
+    {
+      "catalog_index": 11,
+      "filename": "Bokutai3_THEME.bank",
+      "track_name": "Shin Bokura no Taiyou Theme",
+      "track_name_jp": "新・ボクらの太陽 テーマ",
+      "album_name": "Shin Bokura no Taiyou",
+      "album_name_jp": "新・ボクらの太陽",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From SHIN BOKURA NO TAIYOU. Main theme."
+    },
+    {
+      "catalog_index": 12,
+      "filename": "BOKUTAI_DS_THEME.bank",
+      "track_name": "Lunar Knights Main Theme",
+      "track_name_jp": "ボクらの太陽DS テーマ",
+      "album_name": "Lunar Knights",
+      "album_name_jp": "ボクらの太陽 Django & Sabata",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From LUNAR KNIGHTS. Main theme used in the opening movie and trailers."
+    },
+    {
+      "catalog_index": 13,
+      "filename": "Bon_Dance.bank",
+      "track_name": "Bon Dance",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR SOLID 3. Special infiltration track played over a portable radio in Snake vs. Monkey. The Bon Odori version of \"Snake Eater,\" otherwise known as the Snake Eater Dance Song."
+    },
+    {
+      "catalog_index": 14,
+      "filename": "Calling_To_The_Night.bank",
+      "track_name": "Calling To The Night",
+      "album_name": "METAL GEAR SOLID PORTABLE OPS",
+      "artist_name": "Natasha Farrow",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 15,
+      "filename": "chair_race.bank",
+      "track_name": "CHAIR RACE",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Norihiko Hibino",
+      "annotation": "Announced at E3 in 2005, this track was produced for Metal Gear Solid 4's first teaser trailer with musical chairs taken as the song's theme."
+    },
+    {
+      "catalog_index": 16,
+      "filename": "Chase.bank",
+      "track_name": "Desperate Chase",
+      "album_name": "METAL GEAR SOLID 4",
+      "artist_name": "Harry Gregson-Williams",
+      "annotation": "Password: \"thomas\""
+    },
+    {
+      "catalog_index": 17,
+      "filename": "Conclusion.bank",
+      "track_name": "Conclusion",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "A song representing Solid Snake's will to fight as he pushes forward to end Liquid's insurrection."
+    },
+    {
+      "catalog_index": 18,
+      "filename": "Confession.bank",
+      "track_name": "Confession",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "The final downloadable song for Metal Gear Solid 4 players from Kojima Productions."
+    },
+    {
+      "catalog_index": 19,
+      "filename": "Destinys_Call.bank",
+      "track_name": "Destiny's Call 〜 Break for the Fortress",
+      "album_name": "METAL GEAR SOLID PORTABLE OPS",
+      "artist_name": "Norihiko Hibino",
+      "annotation": "From METAL GEAR SOLID: PORTABLE OPS. Battle music medley of songs from the latter half of the game."
+    },
+    {
+      "catalog_index": 20,
+      "filename": "EMBARRASSMENT_M_S.bank",
+      "track_name": "POLICENAUTS MEDLEY",
+      "album_name": "Policenauts",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "A medley of intense battle music from Policenauts."
+    },
+    {
+      "catalog_index": 21,
+      "filename": "Enclosure.bank",
+      "track_name": "Enclosure (MGS4 version)",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "An arranged version of \"Enclosure\" from Metal Gear Solid. A track that recalls Metal Gear Solid as well as the world that has entangled Old Snake."
+    },
+    {
+      "catalog_index": 22,
+      "filename": "Escape_Through_The_Woods.bank",
+      "track_name": "Escape Through the Woods",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "A medley of background music from Snake and EVA's escape through the woods."
+    },
+    {
+      "catalog_index": 23,
+      "filename": "Everything_Begins.bank",
+      "track_name": "Everything Begins",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "This song from Metal Gear Solid 4 has \"Blessing\" as its theme."
+    },
+    {
+      "catalog_index": 24,
+      "filename": "Father_and_Son.bank",
+      "track_name": "Father and Son",
+      "album_name": "METAL GEAR SOLID 2",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Raiden vs. Solidus background music from Metal Gear Solid 2. A cool drum and bass track that captures the grandeur of the epic last battle."
+    },
+    {
+      "catalog_index": 25,
+      "filename": "Flowing_Destiny.bank",
+      "track_name": "Flowing Destiny",
+      "album_name": "Zone of the Enders",
+      "album_name_jp": "Z.O.E.",
+      "artist_name": "Maiko Horisawa",
+      "artist_name_jp": "堀澤 麻衣子",
+      "annotation": "From ZONE OF THE ENDERS. Music from the ending. The title track for Z.O.E. The vocals for the track are played backwards."
+    },
+    {
+      "catalog_index": 26,
+      "filename": "Forerunner.bank",
+      "track_name": "Forerunner",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "A track that depicts Old Snake joining an intense battle as the militiamen's savior. An original track made for Metal Gear Solid 4."
+    },
+    {
+      "catalog_index": 27,
+      "filename": "FreeComp.bank",
+      "track_name": "Mobs Alive",
+      "album_name": "METAL GEAR SOLID 4",
+      "artist_name": "Harry Gregson-Williams",
+      "annotation": "Password: \"abraham\""
+    },
+    {
+      "catalog_index": 28,
+      "filename": "Inori.bank",
+      "track_name": "Inorino Uta",
+      "track_name_jp": "いのりの唄",
+      "album_name": "HIDECHAN! Radio 2.5",
+      "album_name_jp": "HIDECHAN! Radio. 2.5",
+      "artist_name": "Two Han Princess",
+      "artist_name_jp": "TWO-HAN PRINCESS",
+      "annotation": "From HIDECHAN! Radio. Medium ballad performed by the TWO-HAN PRINCESSES from Hideo Kojima's HIDECHAN! Radio podcast."
+    },
+    {
+      "catalog_index": 29,
+      "filename": "La_Clown.bank",
+      "track_name": "La Clown",
+      "album_name": "METAL GEAR AC!D",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "La Clown battle theme from Metal Gear Acid."
+    },
+    {
+      "catalog_index": 30,
+      "filename": "LeoLeo.bank",
+      "track_name": "Leo!Leo!",
+      "album_name": "ANUBIS",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From Zone of the Enders: The 2nd Runner, the battle theme of Leo, the protagonist of the original Z.O.E. and pilot of the Vic Viper. A tune using the classic \"Gradius\" motif."
+    },
+    {
+      "catalog_index": 31,
+      "filename": "LEVEL3_WARNING.bank",
+      "track_name": "Level 3 Warning",
+      "track_name_jp": "LEVEL3 WARNING",
+      "album_name": "Metal Gear 2: Solid Snake",
+      "album_name_jp": "METAL GEAR 2 SOLID SNAKE",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "From METAL GEAR 2: SOLID SNAKE. Battle music created using Konami's custom sound chip, the SCC."
+    },
+    {
+      "catalog_index": 32,
+      "filename": "Love_Theme_hum_ver.bank",
+      "track_name": "Love Theme 〜hum version〜",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Metal Gear Solid 4's \"Love Theme\" without lyrics. A guitar version arranged differently from the original."
+    },
+    {
+      "catalog_index": 33,
+      "filename": "MANTIS_HYMN.bank",
+      "track_name": "MANTIS' HYMN",
+      "album_name": "METAL GEAR SOLID",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Psycho Mantis theme from Metal Gear Solid."
+    },
+    {
+      "catalog_index": 34,
+      "filename": "MG20YearsHistory_Vol1.bank",
+      "track_name": "Metal Gear 20 Years History (Part 1)",
+      "album_name": "METAL GEAR MUSIC COLLECTION",
+      "artist_name": "Norihiko Hibino",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 35,
+      "filename": "MG20YearsHistory_Vol2.bank",
+      "track_name": "Metal Gear 20 Years History (Part 2)",
+      "album_name": "METAL GEAR MUSIC COLLECTION",
+      "artist_name": "Norihiko Hibino",
+      "annotation": "From METAL GEAR MUSIC COLLECTION 20TH ANNIVERSARY album. MGS1 & MGS2 orchestral medley."
+    },
+    {
+      "catalog_index": 36,
+      "filename": "MG20YearsHistory_Vol3.bank",
+      "track_name": "Metal Gear 20 Years History (Part 3)",
+      "album_name": "METAL GEAR MUSIC COLLECTION",
+      "artist_name": "Norihiko Hibino",
+      "annotation": "From METAL GEAR MUSIC COLLECTION 20TH ANNIVERSARY album. MGS3 orchestral medley."
+    },
+    {
+      "catalog_index": 37,
+      "filename": "MG20YearsHistory_Vol4.bank",
+      "track_name": "Metal Gear 20 Years History (Part 4)",
+      "album_name": "METAL GEAR MUSIC COLLECTION",
+      "artist_name": "Norihiko Hibino",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 38,
+      "filename": "MGS1_HIND_D.bank",
+      "track_name": "HIND D",
+      "album_name": "METAL GEAR SOLID",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "The Hind D boss music from Metal Gear Solid."
+    },
+    {
+      "catalog_index": 39,
+      "filename": "MGS4_Thema_Of_Love_SmaXvr.bank",
+      "track_name": "Love Theme (Action Version)",
+      "track_name_jp": "愛のテーマ 〜アクションバージョン〜",
+      "album_name": "Metal Gear Solid 4: Guns of the Patriots",
+      "album_name_jp": "METAL GEAR SOLID 4",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR SOLID 4. The instrumental version of the \"Love Theme.\""
+    },
+    {
+      "catalog_index": 40,
+      "filename": "MGSBD2_harrier_CD.bank",
+      "track_name": "Harrier",
+      "album_name": "METAL GEAR SOLID 2 BANDE DESSINÉE",
+      "artist_name": "Norihiko Hibino",
+      "annotation": "A new Harrier theme composed by Norihiko Hibino for the Metal Gear Solid 2: Digital Graphic Novel."
+    },
+    {
+      "catalog_index": 41,
+      "filename": "MGSTheme_DocumentRemix.bank",
+      "track_name": "\"Metal Gear Solid\" Main Theme (document remix)",
+      "album_name": "THE DOCUMENT OF METAL GEAR SOLID 2",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From THE DOCUMENT OF METAL GEAR SOLID 2. Music from the opening movie."
+    },
+    {
+      "catalog_index": 42,
+      "filename": "MPO+THEME.bank",
+      "track_name": "MPO+ THEME",
+      "album_name": "METAL GEAR SOLID PORTABLE OPS PLUS",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR SOLID: PORTABLE OPS PLUS. Main theme."
+    },
+    {
+      "catalog_index": 43,
+      "filename": "OishiTsuhan.bank",
+      "track_name": "Oishii Two-han Seikatsu",
+      "track_name_jp": "おいしいツーハン生活",
+      "album_name": "HIDECHAN! Radio 2.5",
+      "album_name_jp": "HIDECHAN! Radio. 2.5",
+      "artist_name": "Two Han Princess",
+      "artist_name_jp": "TWO-HAN PRINCESS",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 44,
+      "filename": "One_Night_in_NEOKOBECITY.bank",
+      "track_name": "One Night in Neo Kobe City",
+      "album_name": "Snatcher",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "From SNATCHER. Theme music from the Sega CD version of the game. Composed by Motoaki Furukawa."
+    },
+    {
+      "catalog_index": 45,
+      "filename": "On_Alert.bank",
+      "track_name": "On Alert",
+      "album_name": "METAL GEAR AC!D",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Music from the indoor battles of METAL GEAR AC!D."
+    },
+    {
+      "catalog_index": 46,
+      "filename": "On_the_Edge.bank",
+      "track_name": "On the Edge",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "A song for Snake, a soldier who's fought his way through battlefields in every corner of the world."
+    },
+    {
+      "catalog_index": 47,
+      "filename": "OPENING_TITLE_OLD_L.bank",
+      "track_name": "Old L.A. 2040",
+      "track_name_jp": "OPENING TITLE \"OLD L.A. 2040\"",
+      "album_name": "Policenauts",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "From POLICENAUTS. Opening music set as an accompaniment to snowfall on a futuristic Los Angeles."
+    },
+    {
+      "catalog_index": 48,
+      "filename": "POLICENAUTS_END_TITLE.bank",
+      "track_name": "Policenauts End Title",
+      "track_name_jp": "\"POLICENAUTS\" END TITLE",
+      "album_name": "Policenauts",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "From POLICENAUTS. Medley composed of the game's music. Played during the end credits."
+    },
+    {
+      "catalog_index": 49,
+      "filename": "RAY.bank",
+      "track_name": "Ray",
+      "album_name": "METAL GEAR SOLID 2 BANDE DESSINÉE",
+      "artist_name": "Norihiko Hibino",
+      "annotation": "Theme of Metal Gear RAY, an original, new track for Metal Gear Solid 2: Digital Graphic Novel."
+    },
+    {
+      "catalog_index": 50,
+      "filename": "Rock_Me_Baby.bank",
+      "track_name": "Rock Me Baby",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "66 Boys",
+      "annotation": "From METAL GEAR SOLID 3. Healing music played over a portable radio. Recorded by musicians in a studio jam session to capture a live feel."
+    },
+    {
+      "catalog_index": 51,
+      "filename": "Sailor.bank",
+      "track_name": "Sailor",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Starr.K",
+      "annotation": "From METAL GEAR SOLID 3. Healing music that could be heard by calling a secret radio frequency in the game."
+    },
+    {
+      "catalog_index": 52,
+      "filename": "Sea_Breeze.bank",
+      "track_name": "Sea Breeze",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Sergei Mantis",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 53,
+      "filename": "Show_Time.bank",
+      "track_name": "Show Time",
+      "album_name": "METAL GEAR SOLID PORTABLE OPS",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR SOLID: PORTABLE OPS. Climatic action music featured in the battle fought before Big Boss joined Outer Heaven."
+    },
+    {
+      "catalog_index": 54,
+      "filename": "Snake_Eater.bank",
+      "track_name": "Snake Eater",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Cynthia Harrell",
+      "annotation": "From METAL GEAR SOLID 3. Theme song performed by Cynthia Harrell."
+    },
+    {
+      "catalog_index": 55,
+      "filename": "Sneaking.bank",
+      "track_name": "Midnight Shadow",
+      "album_name": "METAL GEAR SOLID 4",
+      "artist_name": "Harry Gregson-Williams",
+      "annotation": "Password: \"theodore\""
+    },
+    {
+      "catalog_index": 56,
+      "filename": "SUBSISTENCE_ACTION.bank",
+      "track_name": "SUBSISTENCE ACTION",
+      "album_name": "METAL GEAR SOLID 3 SUBSISTENCE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Password: \"mgo2play\""
+    },
+    {
+      "catalog_index": 57,
+      "filename": "Takin_On_The_Shagohod.bank",
+      "track_name": "Takin' On The Shagohod",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 58,
+      "filename": "Test_Subjects_Dualityt.bank",
+      "track_name": "Test Subjects Duality",
+      "album_name": "METAL GEAR AC!D ²",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR AC!D². Music from the battle with Venus. Also used as the opening theme for Hideo Kojima's HIDECHAN! Radio podcast."
+    },
+    {
+      "catalog_index": 59,
+      "filename": "Test_Subject_Burns.bank",
+      "track_name": "Test Subject Burns",
+      "album_name": "METAL GEAR AC!D ²",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 60,
+      "filename": "THEMA_OF_TARA.bank",
+      "track_name": "Theme of Tara",
+      "album_name": "Metal Gear",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "From the original METAL GEAR. Infiltration music. Known as \"Theme of Tara\" because Hideo Kojima verbalized the song's beat as \"ta-ra\" during development."
+    },
+    {
+      "catalog_index": 61,
+      "filename": "THEME_OF_SOLID_SNAKE.bank",
+      "track_name": "Theme of Solid Snake",
+      "album_name": "Metal Gear 2: Solid Snake",
+      "album_name_jp": "METAL GEAR 2 SOLID SNAKE",
+      "artist_name": "Konami Kukeiha Club",
+      "artist_name_jp": "コナミ矩形波倶楽部",
+      "annotation": "From METAL GEAR 2: SOLID SNAKE. Opening theme created using Konami's custom sound chip, the SCC."
+    },
+    {
+      "catalog_index": 62,
+      "filename": "THE_BEST_IS_YET_TO_CO.bank",
+      "track_name": "The Best Is Yet To Come",
+      "album_name": "METAL GEAR SOLID",
+      "artist_name": "AOIFE NI FHEARRAIGH",
+      "annotation": "From METAL GEAR SOLID. Ending theme composed in Ireland by Rika Muranaka. Inspired and informed by Hideo Kojima."
+    },
+    {
+      "catalog_index": 63,
+      "filename": "The_Essence_Of_Vince.bank",
+      "track_name": "The Essence of Vince",
+      "album_name": "METAL GEAR AC!D ²",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR AC!D². Music from the battle with Vince. Also used as the ending theme for Hideo Kojima's HIDECHAN! Radio podcast."
+    },
+    {
+      "catalog_index": 64,
+      "filename": "The_Fury.bank",
+      "track_name": "The Fury",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR SOLID 3: SNAKE EATER. The Fury boss theme. A drum and bass number reflecting outer space."
+    },
+    {
+      "catalog_index": 65,
+      "filename": "The_Pain.bank",
+      "track_name": "The Pain",
+      "album_name": "METAL GEAR SOLID 3",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "Music from the battle with The Pain."
+    },
+    {
+      "catalog_index": 66,
+      "filename": "View_of_Deep_Snow.bank",
+      "track_name": "View of Deep Snow",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "A song that resonates throughout the snowy battlefield, almost a prayer to soothe the souls of soldiers. A Christmas song, dedicated to all the fans and to Old Snake, from everyone at Kojima Productions!"
+    },
+    {
+      "catalog_index": 67,
+      "filename": "VR_TRAINING.bank",
+      "track_name": "VR TRAINING",
+      "album_name": "METAL GEAR SOLID",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "VR training background music from Metal Gear Solid. The song itself is an arrangement of \"Theme of Tara\", the main theme of Metal Gear."
+    },
+    {
+      "catalog_index": 68,
+      "filename": "WARHEAD_STORAGE.bank",
+      "track_name": "WARHEAD STORAGE",
+      "album_name": "METAL GEAR SOLID",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR SOLID. Background music played during the Nuclear Warhead Storage Facility infiltration."
+    },
+    {
+      "catalog_index": 69,
+      "filename": "War_Has_Changed.bank",
+      "track_name": "War has changed.",
+      "album_name": "MGS4 ANOTHER SIDE",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "An original track produced for the Metal Gear Solid 4 trailer at the 2005 Tokyo Game Show."
+    },
+    {
+      "catalog_index": 70,
+      "filename": "Who_Am_I_Medley.bank",
+      "track_name": "Who Am I Really?",
+      "album_name": "Metal Gear 20th Anniversary Music Collection",
+      "album_name_jp": "METAL GEAR MUSIC COLLECTION",
+      "artist_name": "Norihiko Hibino, Kiyozuka Shinya",
+      "artist_name_jp": "Norihiko Hibino, 清塚信也",
+      "annotation": ""
+    },
+    {
+      "catalog_index": 71,
+      "filename": "yell_dead_cell.bank",
+      "track_name": "Yell \"Dead Cell\"",
+      "album_name": "METAL GEAR SOLID 2",
+      "artist_name": "Kojima Productions Sounds",
+      "annotation": "From METAL GEAR SOLID 2. Up-tempo track played during Dead Cell and Harrier boss fights."
+    },
+    {
+      "catalog_index": 72,
+      "filename": "ZanzibarBreeze.bank",
+      "track_name": "Zanzibarland Breeze",
+      "track_name_jp": "Zanzibar Breeze",
+      "album_name": "Metal Gear Music Collection",
+      "artist_name": "Mutsuhiko Izumi",
+      "artist_name_jp": "泉 陸奥彦",
+      "annotation": "From METAL GEAR MUSIC COLLECTION 20TH ANNIVERSARY album. A hard rock version of \"Zanzibarland Breeze\" from METAL GEAR 2: SOLID SNAKE."
+    }
+  ]
+}
