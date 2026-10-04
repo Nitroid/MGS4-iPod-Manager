@@ -12,7 +12,7 @@ The iPod Manager provides a graphical interface for adding, organizing, inspecti
 - Full custom audio deployment to the in-game iPod interface
 - Support for FLAC, WAV, AAC, M4A, MP3, OGG, and WMA
 - Support for 'MGS4 Integral Podcast' and 'Guns of the HIDECHAN!Radio' 
-  - NOTE: Requires additional download from NexusMods
+  - NOTE: Requires [additional download from NexusMods](https://www.nexusmods.com/metalgearsolid4mc/mods/100)
 - Expanded iPod capacity to 1,024 total tracks (73 default + 951 custom).
 - Track metadata, annotations, waveform display, and category management.
 - Enable or disable continuous background playback while the iPod is unequipped
