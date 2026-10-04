@@ -34,7 +34,7 @@ The release includes the required `iPodManager.asi` plugin and Ultimate ASI Load
 
 [![MGS4 iPod Manager Tutorial](https://img.youtube.com/vi/GzS7nFnazko/maxresdefault.jpg)](https://youtu.be/GzS7nFnazko)
 
-Watch the full setup and usage tutorial on YouTube.
+Watch the [full installation and usage tutorial on YouTube](https://youtu.be/GzS7nFnazko).
 
 ## Building
 
